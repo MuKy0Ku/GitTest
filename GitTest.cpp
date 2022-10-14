@@ -5,8 +5,11 @@
 
 int main()
 {
-    std::cout << "Hello VisualStudio Git!\n";
+    std::cout << "Hello GitHub World!\n";
+
+    std::cout << "Hello New branch!\n";
 }
+//aa
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
 // プログラムのデバッグ: F5 または [デバッグ] > [デバッグの開始] メニュー
